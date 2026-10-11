@@ -1,0 +1,6 @@
+{
+  "name": "Northern University Lab Report Cover Page Generator",
+  "description": "Generate and customize professional, print-ready A4 lab report cover pages for Northern University Bangladesh with live preview, multiple academic presets, and instant PDF/PNG export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
